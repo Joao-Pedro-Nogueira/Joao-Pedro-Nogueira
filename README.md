@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joao-Pedro-Nogueira
+- 👋 Hi, I’m João Pedro L. Nogueira
 - 👀 I’m interested in becoming a software developer.
 - 🌱 I’m currently studing Computer Engineering and learning JavaScript, HTML and CSS.
 - ✨ I’m looking to my fisrt oportunity as developer.
