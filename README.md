@@ -1,4 +1,4 @@
-## Hi, I’m João Pedro Nogueira 
+## Hi, I’m João Pedro Nogueira 👋🏼
 
 - 🔥 I started coding when I was 14, making Arduino projects with C++.
 - 🌱 I’m currently studing Computer Engineering and learning JavaScript, HTML and CSS.
