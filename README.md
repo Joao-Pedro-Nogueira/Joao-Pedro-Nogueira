@@ -1,4 +1,4 @@
-### Prazer! Me chamo João Pedro Nogueira e sou programador 👋🏼
+### Prazer! Me chamo João Pedro Nogueira 👋🏼
 #
 - Comecei a programar com 14 anos, fazendo projetos de automação e robótica com Arduino, utilizando linguagem C++.
 - Atualmente estudo <strong>Engenharia De Computação</strong> na UCDB, em Campo Grande - MS.
