@@ -1,6 +1,6 @@
 ### Prazer! Me chamo João Pedro Nogueira 👋🏼
 #
-- Comecei a programar com 14 anos, fazendo projetos de automação e robótica com Arduino, utilizando linguagem C++.
+- Comecei a programar em 2018, fazendo projetos de automação e robótica com Arduino, utilizando linguagem C++.
 - Atualmente estudo <strong>Engenharia De Computação</strong> na UCDB, em Campo Grande - MS.
 - Além da faculdade, estudo programação com foco em <strong>desenvolvimento web</strong> utilizando <strong>ReactJS</strong> na linguagem <strong>TypeScript</strong>.
 #
