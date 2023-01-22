@@ -2,7 +2,9 @@
 #
 - Comecei a programar em 2018, fazendo projetos de automação e robótica com Arduino, utilizando linguagem C++.
 - Atualmente estudo <strong>Engenharia De Computação</strong> na UCDB, em Campo Grande - MS.
-- Além da faculdade, estudo programação com foco em <strong>desenvolvimento web</strong> utilizando <strong>ReactJS</strong> na linguagem <strong>TypeScript</strong>.
+- Além da faculdade, estudo programação com foco em <strong>desenvolvimento web</strong>.
+- Front-end: <strong>ReactJS</strong> na linguagem <strong>TypeScript</strong>.
+- Back-end: <strong>NodeJS</strong> na linguagem <strong>JavaScript</strong>.
 #
 
 <div style="display: inline_block">
